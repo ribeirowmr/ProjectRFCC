@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398681627731",
+    "project_id": "redefeminina-rfcc",
+    "storage_bucket": "redefeminina-rfcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398681627731:android:14c6733aae2c042aaabaa6",
+        "android_client_info": {
+          "package_name": "com.myproject.rfcc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Lt7-gtcVul0vSXlpwFGfxi8cjPfScHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
